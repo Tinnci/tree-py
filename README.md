@@ -1,5 +1,9 @@
 # tree-py
 
+[![PyPI version](https://badge.fury.io/py/tree-py-shiso.svg)](https://badge.fury.io/py/tree-py-shiso)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Tinnci/tree-py?style=social)](https://github.com/Tinnci/tree-py)
+
 A Python implementation of the `tree` command, designed for Windows but compatible with other platforms. It provides a feature-rich command-line utility to recursively list directories in a tree-like format.
 
 ## Installation
