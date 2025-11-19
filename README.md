@@ -5,7 +5,7 @@ A Python implementation of the `tree` command, designed for Windows but compatib
 ## Installation
 
 ```bash
-uv tool install tree-py
+uv tool install tree-py-shiso
 ```
 
 ## Usage
