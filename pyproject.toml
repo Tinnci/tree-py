@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "tree-py"
+name = "tree-py-shiso"
 version = "0.1.1"
 description = "A Python implementation of the tree command for Windows"
 readme = "README.md"
